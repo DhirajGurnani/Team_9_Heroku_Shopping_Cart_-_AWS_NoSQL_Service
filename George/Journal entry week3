@@ -1,0 +1,13 @@
+Journal Entry- Week 3
+
+This Week primarily began with the creation of individual front end api’s by some team members and simultaneous work on the backend api’s
+by the other members. This was first commenced with the creation of a wireframe diagram of the system’s different web pages. 
+After these diagrams, I started working on the backend api for retrieving the orders from the couch DB document. 
+This demo code for this api was successfully tested on the local system and will be merged soon once the system is moved to AWS. 
+The same case follows for the “Cancel Orders api which was successfully created and tested locally. 
+The week finally ended with a scrum meeting where I designed a flowchart which accurately represents how the flow of information 
+would take place throughout the system. The meeting also highlighted the structures of the various databases which will be 
+created in couch DB and the documents which will be associated with the same. Also discussed were the common files and boostraps 
+which will be required for individuals to develop a coherent UI. On the whole we have now successfully defined the structures for 
+various components of the application as well as started to assemble the various bits and pieces together. All of this data is 
+committed to Git and now  work will progress towards linking the backend to the frontend UI for individual pages.
